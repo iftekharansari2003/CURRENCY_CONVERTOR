@@ -13,7 +13,7 @@ The "Currency Converter" project enables quick and accurate currency exchanges u
 - [Acknowledgments](#acknowledgments)
 
 ## Preview
-![preview.png](.assets/Preview.png?raw=true)
+![preview.png](assets/Preview.png?raw=true)
 
 ## Features
 - My currency converter allows you to easily and accurately convert between multiple global currencies in real-time.
