@@ -38,7 +38,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 4. Open index.html in your web browser.
 
-## How to Play
+## How to Use
 1. Enter Amount: Begin by entering the amount of money you want to convert in the "Amount" field.
 2. Select From Currency: Choose the currency you are converting from by selecting the appropriate currency code from the "From Currency" dropdown menu.
 3. Select To Currency: Choose the currency you want to convert to by selecting the desired currency code from the "To Currency" dropdown menu.
