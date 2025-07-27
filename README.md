@@ -21,7 +21,7 @@ The "Currency Converter" project enables quick and accurate currency exchanges u
 - Stay up to date with the latest exchange rates, ensuring you get the most accurate conversion information available.
 - Whether you're traveling abroad or conducting international business, our currency converter helps you make informed financial decisions.
 
-## Getting Started
+## Getting Started 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
 ### Prerequisites
