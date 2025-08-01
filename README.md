@@ -1,6 +1,6 @@
 # CURRENCY CONVERTER 
 
-The "Currency Converter" project enables quick and accurate currency exchanges using real-time exchange rates. With a user-friendly interface, it allows seamless conversion between multiple currencies, ideal for travelers, businesses, or anyone needing up-to-date financial information at their fingertips.
+The "Currency Converter" project enables quick and accurate currency exchanges using real-time exchange rates. With a user-friendly interface, it allows seamless conversion between multiple currencies, ideal for travelers, businesses, or anyone needing up-to-date financial information at their fingertips .
 
 ## Table of Contents 
 
