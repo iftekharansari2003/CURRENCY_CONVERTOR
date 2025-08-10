@@ -6,7 +6,7 @@ The "Currency Converter" project enables quick and accurate currency exchanges u
 
 - [Preview](#preview)
 - [Features](#features)
-- [Getting Started](#getting-started)
+- [Getting Started](#getting-started) 
 - [How to Use](#how-to-Use)
 - [Contributing](#contributing)
 - [License](#license)
